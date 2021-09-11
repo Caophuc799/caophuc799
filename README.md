@@ -10,6 +10,7 @@
   <img align="left" alt="Phuc Cao's mail" width="22px" fill="#AB7C94" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
 <br/>
+<img align="right" alt="GIF" width="300px" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif" />
 
 ### I am a Fullstack developer from Vietnam 🇻🇳
 -  **Work :** Web development backend to frontend. I worked with AWS and Terraform :zap:
