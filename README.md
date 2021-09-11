@@ -23,6 +23,10 @@
 -  **Techs :** 
 <img alt="Aws" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/amazonaws.svg" />       <img alt="Terraform" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/terraform.svg" />         <img alt="Nodejs" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/node-dot-js.svg" />        <img alt="Nestjs" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/nestjs.svg" />       <img alt="Vuejs" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vue-dot-js.svg" />        <img alt="Reactjs" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/react.svg" />       <img alt="Nuxt.js" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/nuxt-dot-js.svg" />       <img alt="Linux" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linux.svg" />
 
+####
+
+<img alt="stat" src="https://github-readme-stats.vercel.app/api?username=caophuc799&hide=%5B%22contribs%22,%22issues%22%5D&hide_title=true&show_icons=true&hide_border=true" />
+
 <!--
 **Caophuc799/caophuc799** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
