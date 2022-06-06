@@ -9,7 +9,7 @@
 <a href="mailto:caophuc799@gmail.com">
   <img align="left" alt="Phuc Cao's mail" title="Phuc Cao's mail" width="22px" fill="#AB7C94" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
-<img align="right" alt="GIF" width="200px" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif" />
+<img align="right" alt="GIF" width="300px" height="300px" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif" />
 <br/>
 
 ### I am a Fullstack developer from Vietnam 🇻🇳
